@@ -41,3 +41,10 @@ Estes cartões mostram um resumo das minhas atividades no GitHub. Eles se atuali
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badges">
   </a>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j0rge253/j0rge253/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j0rge253/j0rge253/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/j0rge253/j0rge253/output/pacman-contribution-graph.svg">
+</picture>
+
+###

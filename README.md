@@ -34,6 +34,10 @@ Estes cartões mostram um resumo das minhas atividades no GitHub. Eles se atuali
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="www.linkedin.com/in/jorge-veras-047709235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badges"></a>
-  <a href="mailto:verasjorge49@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badges"></a>
+  <a href="https://www.linkedin.com/in/jorge-veras-047709235" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badges">
+  </a>
+  <a href="mailto:verasjorge49@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badges">
+  </a>
 </p>
